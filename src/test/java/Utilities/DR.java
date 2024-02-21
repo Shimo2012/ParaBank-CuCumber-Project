@@ -5,7 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class DriverClass {
+public class DR {
 
     public static WebDriver driver;
 
